@@ -1,6 +1,6 @@
 ---
 heading: Projects of mine
-path: /products
+path: /projects
 templateKey: product-page
 title: Projects
 image: /img/jumbotron.jpg
