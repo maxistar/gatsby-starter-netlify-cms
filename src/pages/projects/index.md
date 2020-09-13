@@ -9,7 +9,7 @@ description: На этой странички собраны некторые и
 intro:
   blurbs: []
   heading: Что это и зачем?
-  description: Да я и сам не в курсе...
+  description: Да я и сам не в курсе... Или в курсе?
 main:
   heading: Страница с проектами
   description: Тут будет информация о проектах
