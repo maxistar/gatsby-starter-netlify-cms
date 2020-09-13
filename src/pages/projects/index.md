@@ -7,7 +7,9 @@ image: /img/jumbotron.jpg
 description: На этой странички собраны некторые из моих проектов которыми я
   хотел бы поделиться
 intro:
-  blurbs: []
+  blurbs:
+    - image: /img/apple-touch-icon.png
+      text: Подсветка комнаты светодиодной лентой [/projects/ledroom](Led-Room).
   heading: Что это и зачем?
   description: Да я и сам не в курсе... Или в курсе?
 main:
