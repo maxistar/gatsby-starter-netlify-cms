@@ -3,7 +3,7 @@ heading: Projects of mine
 path: /projects
 templateKey: product-page
 title: Projects
-image: /img/jumbotron.jpg
+image: /img/img_20200618_203750.jpg
 description: На этой странички собраны некторые из моих проектов которыми я
   хотел бы поделиться [Ссылка](/projects/ledroom)
 intro:
