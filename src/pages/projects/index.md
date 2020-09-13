@@ -5,11 +5,11 @@ templateKey: product-page
 title: Projects
 image: /img/jumbotron.jpg
 description: На этой странички собраны некторые из моих проектов которыми я
-  хотел бы поделиться
+  хотел бы поделиться [Ссылка](/projects/ledroom)
 intro:
   blurbs:
     - image: /img/apple-touch-icon.png
-      text: Подсветка комнаты светодиодной лентой [/projects/ledroom](Led-Room).
+      text: Подсветка комнаты светодиодной лентой [Led-Room](./projects/ledroom).
   heading: Что это и зачем?
   description: Да я и сам не в курсе... Или в курсе?
 main:
@@ -24,10 +24,4 @@ main:
   image3:
     alt: Coffee beans
     image: /img/products-grid1.jpg
-testimonials: []
-full_image: /img/img_20200621_070849.jpg
-pricing:
-  heading: Новый раздел
-  description: В этот раздел мы что нибудь добавим
-  plans: []
 ---

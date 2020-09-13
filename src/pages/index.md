@@ -9,10 +9,7 @@ mainpitch:
   description: >
     Эта страничка сделана как проект выходного для чтобы понять насколько Gatsby
     CMS это то что мне нужно. 
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+description: Тут будет какое нибудь описание [Ссылка](http://projects)
 intro:
   blurbs:
     - image: /img/img_20200906_111009.jpg
