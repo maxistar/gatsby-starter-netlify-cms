@@ -3,9 +3,7 @@ templateKey: about-page
 path: /projects/ledroom
 title: Led Room
 ---
-подсветка светодиодной лентой комнаты лентой WS1248b
-
-
+Подсветка комнаты светодиодной лентой WS1248b.
 
 базе WLED ESP32.
 
