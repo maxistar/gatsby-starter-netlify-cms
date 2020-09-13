@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Projects DYI
-image: /img/home-jumbotron.jpg
+image: /img/img_20200621_070849.jpg
 heading: Инженер выходного дня
 subheading: Чем мы сегодня займемся?
 mainpitch:
@@ -33,10 +33,10 @@ main:
     optimal for the plants, farmers and the local environment.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    image: /img/sim800_esp32.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: /img/img_20200823_115528.jpg
   image3:
     alt: Завтрак инженера
     image: /img/img_20200508_162159.jpg
